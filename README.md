@@ -38,3 +38,5 @@ Aby rozpocząć, sklonuj repozytorium na swoje lokalne środowisko:
 ```bash
 git clone https://github.com/TwojaNazwaUzytkownika/api-cli-fetcher.git
 cd api-cli-fetcher
+## 3. cos nowego
+
