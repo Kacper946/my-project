@@ -21,27 +21,20 @@ Skopiuj repozytorium na swoją maszynę za pomocą poniższego polecenia:
 ```bash
 
 
-
 # api-cli-fetcher
 
-## Opis
+Aplikacja CLI, która pobiera dane z API i zapisuje je do pliku JSON. Jest to proste narzędzie, które pozwala na łatwe pobieranie i przechowywanie danych z publicznych lub prywatnych API.
 
-**api-cli-fetcher** to aplikacja CLI, która umożliwia pobieranie danych z API i zapisywanie ich w pliku JSON. Jest to narzędzie przydatne do szybkiego pobierania danych z różnych źródeł API i ich dalszej analizy lub przechowywania w formacie JSON.
+## Opis projektu
 
-Projekt został stworzony w języku Python i jest prostym narzędziem do interakcji z API za pomocą wiersza poleceń.
+`api-cli-fetcher` to aplikacja wiersza poleceń, która umożliwia pobieranie danych z określonego API i zapisywanie ich do pliku w formacie JSON. Możesz wykorzystać to narzędzie do integracji z różnymi API, archiwizacji danych lub po prostu pobierania interesujących cię informacji.
 
-## Wymagania
+## Instrukcje instalacji
 
-- Python 3.x
-- Moduły: `requests`, `argparse`, `json`
+### 1. Klonowanie repozytorium
 
-## Instalacja
-
-Aby zainstalować i uruchomić aplikację, wykonaj poniższe kroki:
-
-### Krok 1: Sklonuj repozytorium
-
-Skopiuj repozytorium na swoją maszynę:
+Aby rozpocząć, sklonuj repozytorium na swoje lokalne środowisko:
 
 ```bash
-git clone https://github.com/TwojeRepozytorium/api-cli-fetcher.git
+git clone https://github.com/TwojaNazwaUzytkownika/api-cli-fetcher.git
+cd api-cli-fetcher
