@@ -18,7 +18,7 @@ Aby zainstalować środowisko i uruchomić aplikację, wykonaj poniższe kroki:
 
 Skopiuj repozytorium na swoją maszynę za pomocą poniższego polecenia:
 
-```bash
+
 
 
 # api-cli-fetcher
